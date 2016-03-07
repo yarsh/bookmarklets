@@ -1,0 +1,1 @@
+javascript:void%20function(){var%20e=%22p,%20li%20{%20color:%20%23121212%20!important;%20font:%20normal%20normal%2021px%20calibri%20!important}%22,t=document.querySelector(%22head%22),o=document.createElement(%22style%22);o.type=%22text/css%22,o.styleSheet%3Fo.styleSheet.cssText=e:o.appendChild(document.createTextNode(e)),t.appendChild(o)}();
